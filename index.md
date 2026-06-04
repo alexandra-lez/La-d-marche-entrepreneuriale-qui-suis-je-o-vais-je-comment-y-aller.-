@@ -1,18 +1,16 @@
 ---
 title: La démarche entrepreneuriale
+description: "Qui suis-je, où vais-je, comment y aller"
+lang: fr-CA
 ---
+
+# La démarche entrepreneuriale : qui suis-je, où vais-je, comment y aller
 
 **Auteurs :** Jean Bibeau et Marie Texier — Université de Sherbrooke (2025)
 
 **Licence :** Creative Commons Attribution – Pas d'utilisation commerciale (CC BY-NC 4.0) — https://creativecommons.org/licenses/by-nc/4.0/
 
-**Pour citer :** Bibeau, J. et Texier, M. (2025). *La démarche entrepreneuriale : qui suis-je, où vais-je, comment y aller*. Université de Sherbrooke. Licence CC BY-NC.
-
 **Source :** https://pressbooks.pbuq.ca/manuelaccompagnemententrepreneurial/
-
-*Document converti du format Word vers Markdown pour usage pédagogique, attribution et licence conservées.*
-
----
 
 Pour citer ou adapter ce manuel
 
@@ -31,42 +29,6 @@ Ce manuel a été conçu pour générer un espace de réflexion et d’apprentis
 À toutes les personnes qui ont une idée de projet d’innovation au sein d’une entreprise, d’un organisme sans but lucratif, d’une coopérative, d’une école, d’un centre de santé, de loisirs ou de recyclage, d’un orchestre, d’une *start-up* technologique, etc., ou à d’autres qui souhaitent démarrer une nouvelle entreprise ou organisation, ou encore qui sont tout simplement curieuses d’explorer une démarche qui structure une idée de projet…
 
 **Table des matières**
-
->
->
->
->
-
->
->
-
->
-
->
-
->
->
-
->
->
-
->
->
-
->
->
-
->
->
-
->
->
-
->
->
-
->
->
 
 # Pourquoi un manuel en ressource éducative libre (REL) ?
 
@@ -181,11 +143,11 @@ Pour nous, c’est aussi l’espoir derrière la vision Entreprendre Ensemble po
 Références
 
 > Bédard, D., Bibeau, J., Pilon, C., & Turgeon, A. (2020). L’Espace Expérientiel (E²) : une pédagogie interactive. Les Annales de QPES, 1(1). Disponible à : [https://ojs.uclouvain.be/index.php/Annales_QPES/article/view/55803](https://ojs.uclouvain.be/index.php/Annales_QPES/article/view/55803)
->
+
 > Dubois, M. (Hôte). (16 août 2019). Nicolas Go, « La coopération en éducation : affirmation de l’égalité et joie d’exister » (No. 829) \[Entretien audio\]. Radio Univers. [http://www.radio-univers.com/nicolas-go-la-longue-tradition-de-la-pedagogie-alternative-n829/](http://www.radio-univers.com/nicolas-go-la-longue-tradition-de-la-pedagogie-alternative-n829/)
->
+
 > Freire, P. (2006). Pédagogie de l’autonomie. Érès.
->
+
 > Go, N. (2012). L’art de la joie. Essai sur la sagesse (p. 300). Livre de Poche.
 
 ### 1.2.2. Sens et observation dans un monde vivant
@@ -203,21 +165,21 @@ Enfin, pour nous, l’humain fait partie d’espèces vivantes qui, elles aussi,
 Références
 
 > Bibeau, J., & Meilleur, R. (2022a). Sens et Dialogue: forces motrices d’un modèle pédagogique innovant. Entreprendre Innover, 52(1), 16-27.
->
+
 > Bibeau, J., & Meilleur, R. (2022b). Pédagogie de l’accompagnement entrepreneurial (1): mise en mouvement des parties prenantes à la relation. Entreprendre Innover, 52(1), 55-65.
->
+
 > Bibeau, J., & Meilleur, R. (2022c). Pédagogie de l’accompagnement entrepreneurial (2): vers une performance bienveillante et négociée. Entreprendre Innover, 52(1), 66-76.
->
+
 > Foliard, S., & Le Pontois, S. (2017). Équipes entrepreneuriales étudiantes: comprendre pour agir. Entreprendre & Innover, (2), 44-54.
->
+
 > Geertz, C. (2008). Thick description: Toward an interpretive theory of culture. In The cultural geography reader (pp. 41-51). Routledge.
->
+
 > Latour, B. (2007). Changer de société, refaire de la sociologie. La découverte.
->
+
 > Latour, B. (2005). Reassembling the social: An introduction to actor-network-theory. Oup Oxford.
->
+
 > Watson, T. J. (2013). Entrepreneurship in action: bringing together the individual, organizational and institutional dimensions of entrepreneurial action. Entrepreneurship & Regional Development, 25(5-6), 404-422.
->
+
 > Weick, K. E. (1995). Sensemaking in organizations (Vol. 3). Thousand Oaks, CAL : Sage Publications.
 
 ### 1.2.3. Agir à partir de soi et de plus grand que soi
@@ -235,22 +197,22 @@ La démarche entrepreneuriale est donc un **processus d’apprentissage en conti
 Références
 
 > Bibeau, J., & Meilleur, R. (2022c). Pédagogie de l’accompagnement entrepreneurial (2): vers une performance bienveillante et négociée. Entreprendre Innover, 52(1), 66-76.
->
+
 > Dionne, P. et Bélisle, R. (avec Simard, A.) (2022). Le projet collectif d’orientation : fondements et exemples de mise en œuvre. CTREQ et Chaire-réseau de recherche sur la jeunesse du Québec.
->
+
 > Foliard, S. (2021). Apprendre dans les écosystèmes éducatifs entrepreneuriaux: le peer pour le meilleur. Revue internationale PME, 34(3-4), 118-141.
->
+
 > Freire, P. (1977). Pédagogie des opprimés suivi de Conscientisation et révolution (2e éd.  
 > française). Éditions Maspero. (Ouvrage original en brésilien, première traduction en français en 1974)
->
+
 > Kolb, A. Y., & Kolb, D. A. (2009). Experiential learning theory: A dynamic, holistic approach to management learning, education and development. The SAGE handbook of management learning, education and development, 42-68.
->
+
 > Sarasvathy, S. D. (2001). Causation and effectuation: Toward a theoretical shift from economic inevitability to entrepreneurial contingency. Academy of management Review, 26(2), 243-263.
->
+
 > Sarasvathy, S., & Botha, H. (2022). Bringing People to the Table in New Ventures: An Effectual Approach. Negotiation Journal, 38(1), 11-34.
->
+
 > Schmitt, C. (2015). L’agir entrepreneurial: repenser l’action des entrepreneurs. PUQ.
->
+
 > Schmitt, C. (2021). The implicit in Sarasvathy’s work: Highlighting a communication theory in entrepreneurship. Projectics/Proyéctica/Projectique, 28(1), 95-111.
 
 ### 1.2.4. Pensée « modèle d’affaires »
@@ -292,11 +254,11 @@ En fin de compte, vous aurez compris qu’**une démarche entrepreneuriale se vi
 Références
 
 > Blank, S. (2013). « Why the Lean Start-Up Changes Everything ». Dans *Harvard Business Review*, volume 91, numéro 5, pages 63-72.
->
+
 > Fayolle, A. (2007). *Entrepreneurship and New Value Creation : the Dynamic of the Entrepreneurial Process*. Cambridge University Press.
->
+
 > Osterwalder, A. et Pigneur, Y. (2010). *Business Model Generation : a Handbook for Visionaries, Game Changers, and Challengers*. John Wiley & Sons.
->
+
 > Ries, E. (2011). *The Lean Startup : How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*. Crown Currency.
 
 ## 1.3. Moments clés de la démarche entrepreneuriale
@@ -870,11 +832,11 @@ La manière la plus efficace de penser la planification reste la description exh
 Sans le savoir, tout le monde fait de la gestion de projet. Planifier une sortie d’une journée, un voyage de plus longue haleine, un déménagement, un mariage ou un jardin dans sa cour arrière fait appel aux éléments de base de la gestion de projet. En ce sens, quatre éléments de base sont présents dans la planification de tous types de projets :
 
 > 1\) **Tâches**
->
+
 > 2\) **Ordonnancement**
->
+
 > 3\) **Ressources**
->
+
 > 4\) **Coûts**
 
 Une liste exhaustive des **tâches**, c’est-à-dire de toutes les actions qui doivent être posées, doit être dressée. Ce travail d’exhaustivité, quoique fastidieux les premières fois, est essentiel pour bien se représenter le travail à faire et ne rien échapper. Dans la pensée « modèle d’affaires », il est question d’activités clés à planifier, afin que votre proposition de valeur, sous forme de produit ou de service, rejoigne la clientèle ou les bénéficiaires et génère les revenus anticipés. Bien sûr, ces activités clés sont amenées à évoluer selon les phases de développement envisagées, mais leur planification initiale est déterminante pour la suite.

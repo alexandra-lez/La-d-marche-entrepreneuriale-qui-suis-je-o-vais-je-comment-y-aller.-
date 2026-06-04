@@ -1,7 +1,6 @@
 ---
-title: La démarche entrepreneuriale
+title: La démarche entrepreneuriale : qui suis-je, où vais-je, comment y aller
 ---
-# La démarche entrepreneuriale : qui suis-je, où vais-je, comment y aller
 
 **Auteurs :** Jean Bibeau et Marie Texier — Université de Sherbrooke (2025)
 
